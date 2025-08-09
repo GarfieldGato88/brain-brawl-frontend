@@ -3,8 +3,8 @@ import { io } from 'socket.io-client';
 import './App.css';
 
 // Updated API configuration for live backend
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
-const SOCKET_URL = process.env.REACT_APP_SOCKET_URL || API_BASE_URL;
+const API_BASE_URL = https://brain-brawl-backend-5wdc.onrender.com;
+const SOCKET_URL = https://brain-brawl-backend-5wdc.onrender.com;
 
 console.log('API Configuration:', {
   API_BASE_URL,
