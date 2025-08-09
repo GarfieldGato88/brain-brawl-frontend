@@ -6,7 +6,7 @@ import './App.css';
 const API_BASE_URL = 'https://brain-brawl-backend-5wdc.onrender.com';
 const SOCKET_URL = 'https://brain-brawl-backend-5wdc.onrender.com';
 
-console.log('API Configuration:', {
+console.log('🚀 UPDATED API Configuration:', {
   API_BASE_URL,
   SOCKET_URL,
   NODE_ENV: process.env.NODE_ENV
